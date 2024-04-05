@@ -1,1 +1,1 @@
-![Alt Text](F:/bakery-website-template/Screenshot(2).png)
+![Alt Text](img/Screenshot(1).png)
